@@ -1,4 +1,7 @@
-# Web-Task-WH-
+# Web-Task-WH
+Using:
+[elephantsql](https://www.elephantsql.com/)
+[postgresql](https://www.postgresql.org/ftp/pgadmin/pgadmin4/v5.2/windows/)
 
 1. Download [Node.js](https://nodejs.org/en/download/) 
 2. Download this repository to your computer.
